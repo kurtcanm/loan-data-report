@@ -1,0 +1,1561 @@
+INFO  time: initialize in 0.67s
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.75s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.74s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+something's wrong: no file:///home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala in Array[String]RangePosition(file:///home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala, 121, 121, 134)
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/loan_example.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/scalaLoan/src/main/scala/loan_example.scala
+WARN  no build target: 
+INFO  time: initialize in 1.29s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Dismissed'
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals8015928527973178922/sbt-launch.jar metalsEnable bloopInstall'
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /home/databees/.sbt/1.0/plugins
+INFO  [info] Loading project definition from /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/project
+INFO  [success] Generated .bloop/scala-spark-loan-build.json
+INFO  [success] Total time: 3 s, completed Mar 14, 2020 12:18:55 AM
+INFO  [info] Loading settings for project scala-spark-loan from process_csv.sbt ...
+INFO  [info] Set current project to scala_loan (in build file:/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/)
+INFO  [info] Set current project to scala_loan (in build file:/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/)
+INFO  [info] semanticdb-scalac is enabled
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+WARN  code navigation does not work for the file '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: 
+INFO  [success] Generated .bloop/scala-spark-loan-test.json
+INFO  [success] Generated .bloop/scala-spark-loan.json
+INFO  [success] Total time: 8 s, completed Mar 14, 2020 12:19:11 AM
+INFO  time: ran 'sbt bloopInstall' in 34s
+INFO  build tool exit: 0
+INFO  running embedded 'bloop bsp --protocol local --socket /tmp/bsp2832616777066692086/-1a4znukor3pcm.socket'
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/databees/.cache/metals/bsp.trace.json
+The server is listening for incoming connections at local:///tmp/bsp2832616777066692086/-1a4znukor3pcm.socket...
+Accepted incoming BSP client connection at local:///tmp/bsp2832616777066692086/-1a4znukor3pcm.socket
+request received: build/initialize
+INFO  time: connected to build server in 6.88s
+BSP initialization handshake complete.
+INFO  time: imported build in 2.89s
+INFO  time: indexed workspace in 31s
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 8.58s
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.76s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 1.06s
+ERROR Failed to compile 'scala-spark-loan'
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 4.54s
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 2.94s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.66s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.55s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.53s
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+WARN  no build target: 
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.56s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.01s
+WARN  no build target: 
+shutdown request received: build/shutdown
+[0m[31m[E][0m BSP server cancelled, closing socket...
+Client in /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/.bloop triggered cancellation. Cancelling tasks...
+INFO  bloop exit: 0
+INFO  time: initialize in 0.85s
+INFO  running embedded 'bloop bsp --protocol local --socket /tmp/bsp4659642212861880495/hnyupcden2hv.socket'
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+The server is listening for incoming connections at local:///tmp/bsp4659642212861880495/hnyupcden2hv.socket...
+Accepted incoming BSP client connection at local:///tmp/bsp4659642212861880495/hnyupcden2hv.socket
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/databees/.cache/metals/bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 4.46s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.64s
+INFO  time: indexed workspace in 3.23s
+Mar 14, 2020 4:36:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 4.71s
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 1.74s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.87s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.56s
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.77s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.37s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.45s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.3s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 0.4s
+ERROR Failed to compile 'scala-spark-loan'
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.28s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.41s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.35s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 0.29s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.06s
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 1.33s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.21s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.06s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+Mar 14, 2020 5:06:34 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:34 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1544:1530]
+java.lang.AssertionError: assertion failed: bad position: [1544:1530]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:06:36 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:36 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:37 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:37 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1545:1531]
+java.lang.AssertionError: assertion failed: bad position: [1545:1531]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:06:39 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1556:1542]
+java.lang.AssertionError: assertion failed: bad position: [1556:1542]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:06:41 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1558:1544]
+java.lang.AssertionError: assertion failed: bad position: [1558:1544]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:06:43 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:06:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1566:1552]
+java.lang.AssertionError: assertion failed: bad position: [1566:1552]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:01 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:01 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1580:1565]
+java.lang.AssertionError: assertion failed: bad position: [1580:1565]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:04 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1582:1567]
+java.lang.AssertionError: assertion failed: bad position: [1582:1567]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 1.15s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.93s
+Mar 14, 2020 5:07:44 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:44 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [828:814]
+java.lang.AssertionError: assertion failed: bad position: [828:814]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:45 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:47 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:48 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [845:831]
+java.lang.AssertionError: assertion failed: bad position: [845:831]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:50 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [850:836]
+java.lang.AssertionError: assertion failed: bad position: [850:836]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:51 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [854:840]
+java.lang.AssertionError: assertion failed: bad position: [854:840]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:07:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:07:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [864:850]
+java.lang.AssertionError: assertion failed: bad position: [864:850]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:12 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:12 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [901:887]
+java.lang.AssertionError: assertion failed: bad position: [901:887]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:14 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [903:889]
+java.lang.AssertionError: assertion failed: bad position: [903:889]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:16 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:16 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [911:897]
+java.lang.AssertionError: assertion failed: bad position: [911:897]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:18 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [916:902]
+java.lang.AssertionError: assertion failed: bad position: [916:902]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:19 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:19 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [924:910]
+java.lang.AssertionError: assertion failed: bad position: [924:910]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+Mar 14, 2020 5:10:20 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Mar 14, 2020 5:10:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [930:916]
+java.lang.AssertionError: assertion failed: bad position: [930:916]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:34)
+	at scala.reflect.internal.util.Position$.range(Position.scala:51)
+	at scala.reflect.internal.util.InternalPositionImpl$class.copyRange(Position.scala:205)
+	at scala.reflect.internal.util.InternalPositionImpl$class.withStart(Position.scala:124)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:12)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:338)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:337)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:395)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.61s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.08s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.18s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.12s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.1s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.03s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.15s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.87s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.86s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.94s
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.9s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.86s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.99s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.21s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.19s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 0.21s
+ERROR Failed to compile 'scala-spark-loan'
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 0.86s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.06s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  shutting down Metals
+shutdown request received: build/shutdown
+[0m[31m[E][0m BSP server cancelled, closing socket...
+Client in /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/.bloop triggered cancellation. Cancelling tasks...
+INFO  bloop exit: 0
+INFO  time: initialize in 0.67s
+INFO  running embedded 'bloop bsp --protocol local --socket /tmp/bsp3528637582200839691/-1xi0v7ivunm2s.socket'
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+The server is listening for incoming connections at local:///tmp/bsp3528637582200839691/-1xi0v7ivunm2s.socket...
+Accepted incoming BSP client connection at local:///tmp/bsp3528637582200839691/-1xi0v7ivunm2s.socket
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/databees/.cache/metals/bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 5.14s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.52s
+INFO  time: indexed workspace in 3.31s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 5.69s
+Mar 15, 2020 4:39:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 2.18s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.71s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.49s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.38s
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.39s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: /home/databees/FirehouseLoanClient/java-project/scala-spark-loan/process_csv.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+INFO  time: compiled scala-spark-loan in 1.33s
+WARN  no build target: 
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.38s
+INFO  compiling scala-spark-loan (1 scala source)
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+INFO  time: compiled scala-spark-loan in 1.31s
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: 

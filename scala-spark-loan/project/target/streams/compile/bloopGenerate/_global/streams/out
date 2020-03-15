@@ -1,0 +1,4 @@
+[debug] [scala-spark-loan-build] Classpath dependencies List()
+[debug] [scala-spark-loan-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-spark-loan-build' to '/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/project/.bloop/scala-spark-loan-build.json'
+[success] Generated .bloop/scala-spark-loan-build.json

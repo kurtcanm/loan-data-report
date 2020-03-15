@@ -1,0 +1,5 @@
+name := "scala_loan"
+version := "1.3"
+scalaVersion := "2.11.12"
+libraryDependencies += "org.apache.spark" % "spark-core_2.11" % "2.3.0"
+libraryDependencies += "org.apache.spark" % "spark-sql_2.11" % "2.3.0"

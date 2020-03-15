@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/"), "scala-spark-loan")...
+[debug] Done updating ProjectRef(uri("file:/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/"), "scala-spark-loan")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

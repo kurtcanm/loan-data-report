@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/databees/FirehouseLoanClient/java-project/scala-spark-loan/src/main/scala/process_csv.scala:65:6: value coalesce is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value coalesce'?[0m
+[0m[[0m[31merror[0m] [0m[0m    .coalesce(1)[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
